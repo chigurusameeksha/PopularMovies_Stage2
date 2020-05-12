@@ -16,7 +16,7 @@
         android:theme="@style/AppTheme">
         <activity
             android:name="com.example.sameeksha.popular_movies2.MainActivity"
-            android:configChanges="keyboard|orientation|screenSize"
+            android:configChanges="keyboard|orientation|screenSize|screenSize|keyboardHidden"
             android:launchMode="standard"
             >
 

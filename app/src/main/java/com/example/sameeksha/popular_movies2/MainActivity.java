@@ -121,7 +121,10 @@ public class MainActivity extends AppCompatActivity {
 
         return true;
     }
-
+    @Override
+    protected void onDestroy() {
+        super.onDestroy();               // Add this line
+    }
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         if (item.getItemId() == R.id.popular) {
