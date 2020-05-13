@@ -34,6 +34,11 @@ Add your themoviedb api key to gradle.properties
 
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/42926055/81569387-d3840200-93bc-11ea-8336-313cb6f94e64.gif)
 
+
+## Review
+
+![screencapture-review-udacity-2020-05-13-08_19_48](https://user-images.githubusercontent.com/42926055/81767401-f36b1100-94f5-11ea-827d-0d5a89992023.png)
+
 ## License
 MIT License
 
